@@ -10832,4 +10832,10 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+
+}
+
+/* Custom styles */
+.card-title {
+  font-size: 1.3rem; /* 例: h4タグのサイズに合わせる */
 }
