@@ -10840,3 +10840,6 @@ textarea.form-control-lg {
   font-size: 1.3rem; /* 例: h4タグのサイズに合わせる */
 }
 
+section.py-5 .container {
+    margin-bottom: 20px !important;
+}
