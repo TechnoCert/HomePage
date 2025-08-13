@@ -7,9 +7,9 @@ $description = '';
 $content = '';
 
 if ($page_type === 'modeling') {
-    $title = 'システムビジネスモデリング';
-    $description = 'システムビジネスモデリングのサービス詳細ページです。';
-    $content = 'ここにシステムビジネスモデリングの詳細内容を記述します。';
+    $title = 'ソリューションモデリング';
+    $description = 'ソリューションモデリングのサービス詳細ページです。';
+    $content = 'ここにソリューションモデリングの詳細内容を記述します。';
 } elseif ($page_type === 'management') {
     $title = 'プロジェクトマネジメント';
     $description = 'プロジェクトマネジメントのサービス詳細ページです。';

@@ -35,7 +35,7 @@
                 <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="<?php echo get_template_directory_uri(); ?>/img/image.png" alt="..." /></div>
                 <div class="col-lg-5">
                     <h1 class="font-weight-light">ビジネスモデル<br>システム化支援サービス</h1>
-                    <p>システムビジネスモデリングパートナー</p>
+                    <p>ソリューションモデリングパートナー</p>
                     <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfPlGtRKPOYGJSmRDpXtc25RXeIW9rnEneUAW8gvloQKHblJQ/viewform?usp=sf_link">Call to Action!</a>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                 <div class="col-md-6 mb-5">
                     <div class="card h-100">
                         <div class="card-body">
-                            <h2 class="card-title">（0➡1）システムビジネスモデリング</h2>
+                            <h2 class="card-title">（0➡1）ソリューションモデリング</h2>
                             <p class="card-text">デジタル技術を核とするビジネスをモデリングし、その情報システム化を支援します。また必要に応じてそのシステムの差異化要素に関するプロト設計を実施し、お客様のPoCプロセス推進に取り組みます。</p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="service.php?type=modeling">More Info</a></div>
